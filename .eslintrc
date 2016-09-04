@@ -46,9 +46,10 @@
     "import/no-extraneous-dependencies": 0,
   },
   "env": {
-    "mocha": true
+    "mocha": true,
   },
   "globals": {
     "document": true,
+    "expect": true,
   },
 }
